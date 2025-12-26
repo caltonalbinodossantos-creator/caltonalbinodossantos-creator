@@ -11,7 +11,7 @@ Busco constantemente evoluir minhas habilidades técnicas e acadêmicas através
         <img 
             alt="LinkedIn"
             title="LinkedIn - Calton Albino Dos Santos"
-            src="https://img.shields.io/badge/LinkedIn-Calton%20Albino%20Dos%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-Calton%20Albino%20Dos%20santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/caltonalbinodossantos-creator?tab=repositories&sort=stargazers">
