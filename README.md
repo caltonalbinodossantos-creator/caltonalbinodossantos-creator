@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Calton Albino Dos Santos
 
-**`Desenvolvedor Java`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Calton Albino Dos Santos, sou desenvolvedor Java com foco em Backend e Spring Boot.
-Atualmente, estou no último ano da Licenciatura em Ensino de Informática pela Universidade Católica de Moçambique, em fase de elaboração da minha monografia, com entrega prevista para Fevereiro de 2026.
-Busco constantemente evoluir minhas habilidades técnicas e acadêmicas através de projetos práticos e estudos contínuos.
+Sou Calton Albino Dos Santos, Licenciado em Ensino de Informática pela Universidade Católica de Moçambique e Desenvolvedor Full Stack, com experiência no desenvolvimento de aplicações web utilizando Java, Spring Boot, React.js e MySQL.
+
+Tenho experiência no desenvolvimento de sistemas completos, desde a análise de requisitos, modelação e estruturação da solução até ao desenvolvimento do Backend e Frontend, integração com bases de dados, implementação de autenticação e segurança com JWT, testes, controlo de versões com Git/GitHub e deploy das aplicações.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/calton-albino-dos-santos" target="_blank">
@@ -35,55 +35,95 @@ Busco constantemente evoluir minhas habilidades técnicas e acadêmicas através
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+ align="left" 
+ alt="Java" 
+ title="Java"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
 <img 
-    align="left" 
-    alt="Spring" 
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-  />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+ align="left" 
+ alt="Spring Boot" 
+ title="Spring Boot"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
+
 <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+ align="left" 
+ alt="React" 
+ title="React"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-  /> 
-  <img 
-      align="left" 
-      alt="GitHub" 
-      title="GitHub" 
-      width="30px" 
-      style="padding-right:10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    />
+ align="left" 
+ alt="JavaScript" 
+ title="JavaScript"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="HTML5" 
+ title="HTML5"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="CSS3" 
+ title="CSS3"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="MySQL" 
+ title="MySQL"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Git" 
+ title="Git"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="GitHub" 
+ title="GitHub"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Maven" 
+ title="Maven"
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
+/>
 
 <br/>
 <br/>
-
 
